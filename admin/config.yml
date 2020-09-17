@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sagarmittal1/blog-website
+  repo: sagarmittal1/sagrmittal1.github.io
   branch: master
   site_domain: boring-leakey.netlify.app/
 
